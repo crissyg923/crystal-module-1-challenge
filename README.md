@@ -2,8 +2,8 @@
 
 ## Project Description
 
-[Link to Repo](https://github.com/crissyg923/crystal-module-1-challenge)
-[Link to Deployed Site]
+* [Link to Repo](https://github.com/crissyg923/crystal-module-1-challenge)
+* [Link to Deployed Site](https://crissyg923.github.io/crystal-module-1-challenge/)
 
  
 This project was completed to fulfill **Horiseon’s** goal of ensuring their website is following accessibility standards as well as making sure they are optimized for search engines.  Through completing this refactoring assignment, it gave me an opportunity to experiment with code, learn how to make a site more accessible, and how to clean up the code for easier site maintenance.  I was able to:
