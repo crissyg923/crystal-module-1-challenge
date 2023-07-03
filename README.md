@@ -20,14 +20,16 @@ Installing this project requires you to clone  the **crystal-first-module-challe
 
 * Hit the **code** button in the repository’s homepage.
 
+![Code Button](/02-Challenge/Develop/assets/images/Code%20button.jpg "Code Link")
+
 * Clone the HTTPS code.
 
 * Head to your machine’s local Terminal (for Mac) or Gitbash (for Windows).
 
 Command into the directory where you want to park the repo.  It’s best practice to give the directory the same name as the repo.  Type the following command:
 
- git clone (get clone link)
-Cd crystal-first-module-challenge
+ git clone (paste HTTPS link from above)
+ Cd crystal-first-module-challenge (or whatever you named new directory)
 
 Now you can edit the files in the Markup Text Editor of your choice.
 
@@ -40,7 +42,7 @@ git push origin main
 
 ##Usage## 
 
-You can contribute to this project by increasing its accessibility, making the code more efficient, or anything that you feel would be beneficial.  You can also open up this page using Google Chrome’s Dev tools to inspect the code.
+You can contribute to this project by increasing its accessibility, making the code more efficient, or anything that you feel would be beneficial.  You can also open up this page using Google Chrome’s Dev tools to inspect the code. In order to view the site's code using Chrome's DevTools, simply navigate to "INSERT LINK HERE" in a Google Chrome browser, right click anywhere on the site, and click Inspect.  Below is what you should see
 
 
 
