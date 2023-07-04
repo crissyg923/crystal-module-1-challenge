@@ -6,21 +6,21 @@
 * [Link to Deployed Site](https://crissyg923.github.io/crystal-module-1-challenge/)
 
  
-This project was completed to fulfill **Horiseon’s** goal of ensuring their website is following accessibility standards as well as making sure they are optimized for search engines.  Through completing this refactoring assignment, it gave me an opportunity to experiment with code, learn how to make a site more accessible, and how to clean up the code for easier site maintenance.  I was able to:
+This project was completed to fulfill **Horiseon’s** goal of ensuring their website is following accessibility standards as well as making sure they are optimized for search engines.  Through completing this refactoring assignment, it gave me an opportunity to experiment with code, work through a ton of coding issues, learn how to make a site more accessible, and how to clean up the code for easier site maintenance.  I was able to:
 
 * Add a title and description to make the site appear higher in search engines 
 
 * Add alt text to images, making it accessible to disabled individuals as well as creating a placeholder in the event that the images do not load
 
-* Fix the bug in the code causing the “SEO” link in the header to not work
+* Fix the bug in the code causing the “Search Engine Optimization” link in the header not to work
 
 * Add comments to the code making for easier viewing and future maintenance of the site
 
-In working with Horiseon’s site, I was motivated by my belief that everyone should have access to technology, regardless of disability.  Making sure that your website is accessible to everyone should always be a priority.  As an avid “google searcher”, I also understand that someone is more likely click on one of the first links they see and it is much better when you can view text for each search result that previews what will be on the webpage when you click it.
+In working with Horiseon’s site, I was motivated by my belief that everyone should have access to technology, regardless of disability.  Making sure that your website is accessible to everyone should always be a priority.  As an avid “google searcher”, I also understand that someone is more likely to click on one of the first links they see and it is preferable to view a text preview for each search result.  SEO optimization makes this possible.
 
 ## Installation
 
-Installing this project requires you to clone  the **crystal-first-module-challenge**  repository to your local computer.  You can then edit the code and push your changes to the repo.   The steps involved are:
+Installing this project requires you to clone  the **crystal-module-1-challenge**  repository to your local computer.  You can then edit the code and push your changes to the repo.   The steps involved are:
 
 * Hit the **code** button in the repository’s homepage. You can find the repository [here](https://github.com/crissyg923/crystal-module-1-challenge)
 
@@ -32,21 +32,25 @@ Installing this project requires you to clone  the **crystal-first-module-challe
 
 Command into the directory where you want to park the repo.  It’s best practice to give the directory the same name as the repo.  Type the following command:
 
- git clone (paste HTTPS link from above)
- cd crystal-first-module-challenge (or whatever you named new directory)
+    git clone (paste HTTPS link from above)
+    cd crystal-module-1-challenge 
 
-Now you can edit the files in the Markup Text Editor of your choice.
+You will then need to create a feature branch so that your local changes can be reviewed before merging.  You can do that with the following command while in the repo in your terminal:
+
+     git checkout -b feature/"new-branch-name"
+
+Now you can edit the files in the **Markup Text Editor** of your choice.
 
 When you are done, save your changes and push them to the repo using the following commands:
 
-git status (just to make sure you are still in the git repo)
-git add -A (to add all changes)
-git commit -m “brief text description of changes”
-git push origin main
+    git status (just to make sure you are still in the git repo)
+    git add -A (to stage all changes)
+    git commit -m “brief text description of changes”
+    git push origin feature/"new-branch-name"
 
 ## Usage 
 
-You can contribute to this project by increasing its accessibility, making the code more efficient, or anything that you feel would be beneficial.  You can also open up this page using Google Chrome’s Dev tools to inspect the code. Whether you are studying code or would like to see how this site was coded, feel free to check out the site code.  In order to view the site's code using Chrome's DevTools, simply navigate to "INSERT LINK HERE" in a Google Chrome browser, right click anywhere on the site, and click Inspect.  Below is what you should see:
+You can contribute to this project by increasing its accessibility, making the code more efficient, or anything that you feel would be beneficial.  You can also open up this page using Google Chrome’s Dev tools to inspect the coding of the site. In order to view the site's code using Chrome's DevTools, simply navigate to [the deployed site](https://crissyg923.github.io/crystal-module-1-challenge/) in a Google Chrome browser, right click anywhere on the site, and click Inspect.  Below is what you should see:
 
 ![Site Screenshot](/02-Challenge/Develop/assets/Site%20screenshot.jpg "Website Screenshot")
 
